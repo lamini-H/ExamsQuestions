@@ -1,0 +1,28 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Web Hosting Icon -->
+  <g transform="translate(60, 60)">
+    <!-- Cloud/Server -->
+    <path d="M -30 -15 Q -40 -25 -30 -30 Q -20 -35 -10 -30 Q 0 -35 10 -30 Q 20 -25 10 -15 Q 0 -5 -10 -5 Q -20 -5 -30 -15 Z" 
+          fill="none" stroke="#E74C3C" stroke-width="4" stroke-linecap="round"/>
+    
+    <!-- Globe/World -->
+    <circle cx="0" cy="0" r="25" fill="none" stroke="#E74C3C" stroke-width="3"/>
+    <path d="M -25 0 Q -12.5 -15 0 -15 Q 12.5 -15 25 0" 
+          fill="none" stroke="#E74C3C" stroke-width="2" opacity="0.6"/>
+    <path d="M -25 0 Q -12.5 15 0 15 Q 12.5 15 25 0" 
+          fill="none" stroke="#E74C3C" stroke-width="2" opacity="0.6"/>
+    <line x1="0" y1="-25" x2="0" y2="25" stroke="#E74C3C" stroke-width="2" opacity="0.6"/>
+    
+    <!-- Connection Points -->
+    <circle cx="-15" cy="-10" r="2" fill="#E74C3C" opacity="0.8"/>
+    <circle cx="15" cy="-10" r="2" fill="#E74C3C" opacity="0.8"/>
+    <circle cx="0" cy="10" r="2" fill="#E74C3C" opacity="0.8"/>
+    
+    <!-- Data Flow Lines -->
+    <path d="M -30 -15 Q -20 -5 -15 -10" 
+          fill="none" stroke="#E74C3C" stroke-width="1.5" opacity="0.4" stroke-dasharray="3,3"/>
+    <path d="M 30 -15 Q 20 -5 15 -10" 
+          fill="none" stroke="#E74C3C" stroke-width="1.5" opacity="0.4" stroke-dasharray="3,3"/>
+  </g>
+</svg>
+
