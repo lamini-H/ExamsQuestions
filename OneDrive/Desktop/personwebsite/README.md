@@ -1,6 +1,6 @@
-# Personal Website - Aromal Anil
+# Personal Website - HAj 
 
-A modern, responsive personal website template for a web developer portfolio.
+A modern, responsive HAJ website template for a web developer portfolio.
 
 ## Features
 
@@ -20,7 +20,7 @@ A modern, responsive personal website template for a web developer portfolio.
 
 ### Update Personal Information
 
-1. **Name**: Edit the name in `index.html` (line with "I'm Aromal Anil")
+1. **Name**: Edit the name in `index.html` 
 2. **Email**: Update the email address in both the social bar and email bar sections
 3. **Social Links**: Update the social media links in the social bar section
 4. **Profession**: Change "Web Developer" to your profession
